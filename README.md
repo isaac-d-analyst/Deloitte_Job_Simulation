@@ -165,9 +165,8 @@ drill-down analysis from location to machine level.
 
 | File | Description |
 |------|-------------|
-| `daikibo-telemetry-data.json` | Raw telemetry dataset — 160,704 records |
-| `daikibo-dashboard.twbx` | Tableau packaged workbook |
 | `screenshots/dashboard.png` | Dashboard screenshot |
+| `Certificate.pdf` | Ceertificate of Participation |
 | `README.md` | This documentation file |
 
 ---
