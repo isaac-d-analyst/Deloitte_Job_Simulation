@@ -3,10 +3,10 @@
 
 ---
 
-## What This Project Is About
+## 📌 What This Project Is About
 
 This project is a **data analysis job simulation** completed as part of the
-**Deloitte Australia Technology Virtual Experience Program**.
+**Deloitte Australia Data Analytics Job Simulation (Forage)**.
 
 Daikibo Industrials is a global manufacturing company with factories across Japan,
 Germany, and China. The task was to analyze machine telemetry data to identify
@@ -165,8 +165,9 @@ drill-down analysis from location to machine level.
 
 | File | Description |
 |------|-------------|
+| `daikibo-telemetry-data.json` | Raw telemetry dataset — 160,704 records |
+| `daikibo-dashboard.twbx` | Tableau packaged workbook |
 | `screenshots/dashboard.png` | Dashboard screenshot |
-| `Certificate.pdf` | Ceertificate of Participation |
 | `README.md` | This documentation file |
 
 ---
@@ -188,4 +189,4 @@ Data Analyst & Data Analytics Tutor | Nigeria
 
 ---
 
-*Deloitte Australia Technology Virtual Experience | Manufacturing Analytics | Tableau*
+*Deloitte Australia Data Analytics Job Simulation | Manufacturing Analytics | Tableau*
